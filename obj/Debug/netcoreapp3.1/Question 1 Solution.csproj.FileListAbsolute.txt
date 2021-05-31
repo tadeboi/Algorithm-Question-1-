@@ -1,0 +1,13 @@
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\bin\Debug\netcoreapp3.1\Question 1 Solution.exe
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\bin\Debug\netcoreapp3.1\Question 1 Solution.deps.json
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\bin\Debug\netcoreapp3.1\Question 1 Solution.runtimeconfig.json
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\bin\Debug\netcoreapp3.1\Question 1 Solution.runtimeconfig.dev.json
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\bin\Debug\netcoreapp3.1\Question 1 Solution.dll
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\bin\Debug\netcoreapp3.1\Question 1 Solution.pdb
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\obj\Debug\netcoreapp3.1\Question 1 Solution.csprojAssemblyReference.cache
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\obj\Debug\netcoreapp3.1\Question 1 Solution.AssemblyInfoInputs.cache
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\obj\Debug\netcoreapp3.1\Question 1 Solution.AssemblyInfo.cs
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\obj\Debug\netcoreapp3.1\Question 1 Solution.csproj.CoreCompileInputs.cache
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\obj\Debug\netcoreapp3.1\Question 1 Solution.dll
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\obj\Debug\netcoreapp3.1\Question 1 Solution.pdb
+C:\Users\Omotade Alabi\source\repos\Question 1 Solution\obj\Debug\netcoreapp3.1\Question 1 Solution.genruntimeconfig.cache
